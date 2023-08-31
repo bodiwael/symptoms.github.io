@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/symptoms.github.io/static/css/main.26c8b47a.chunk.css",
+    "main.js": "/symptoms.github.io/static/js/main.3f8aef18.chunk.js",
+    "main.js.map": "/symptoms.github.io/static/js/main.3f8aef18.chunk.js.map",
+    "runtime-main.js": "/symptoms.github.io/static/js/runtime-main.c6685fab.js",
+    "runtime-main.js.map": "/symptoms.github.io/static/js/runtime-main.c6685fab.js.map",
+    "static/js/2.263ac821.chunk.js": "/symptoms.github.io/static/js/2.263ac821.chunk.js",
+    "static/js/2.263ac821.chunk.js.map": "/symptoms.github.io/static/js/2.263ac821.chunk.js.map",
+    "index.html": "/symptoms.github.io/index.html",
+    "precache-manifest.242b82220d3dce29b5b0f89d5dc90fb5.js": "/symptoms.github.io/precache-manifest.242b82220d3dce29b5b0f89d5dc90fb5.js",
+    "service-worker.js": "/symptoms.github.io/service-worker.js",
+    "static/css/main.26c8b47a.chunk.css.map": "/symptoms.github.io/static/css/main.26c8b47a.chunk.css.map",
+    "static/js/2.263ac821.chunk.js.LICENSE.txt": "/symptoms.github.io/static/js/2.263ac821.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/symptoms.github.io/static/media/logo.1d25eaf2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6685fab.js",
+    "static/js/2.263ac821.chunk.js",
+    "static/css/main.26c8b47a.chunk.css",
+    "static/js/main.3f8aef18.chunk.js"
+  ]
+}
